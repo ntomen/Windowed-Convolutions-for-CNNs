@@ -1,0 +1,15 @@
+*.egg-info/
+.installed.cfg
+*.egg
+*__pycache__*
+
+adversarial/
+tiny_imagenet/
+cifar10_windowing/
+full_imagenet/
+imagenette_windowing/
+old/
+
+*.swp
+*.swo
+
